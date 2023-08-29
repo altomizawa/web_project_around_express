@@ -1,19 +1,23 @@
 const express = require("express");
 
-const { PORT = 3000 } = process.env;
+const { PORT = 3000, BASE_PATH } = process.env;
 
 const app = express();
-const {users} = require('./users.js')
 
-app.get('/', (req, res) =>{
-  res.send('<h1>hello, World</h1>')
-})
+const userRouter = require("./routes/users");
+const cardRouter = require("./routes/cards");
 
-app.get('/users', (req, res) => {
-  res.send('these are all the users,')
-  
-})
+const users = require("./data/users");
+const cards = require("./data/cards");
+
+app.get("/", (req, res) => {
+  res.send("<h1>Hello, World</h1>");
+});
+
+app.use("/users", userRouter);
+
+app.use("/cards", cardRouter);
 
 app.listen(PORT, () => {
-  console.log("The app is listeening on PORT 300");
+  console.log(`The app is listening on PORT ${PORT}`);
 });
