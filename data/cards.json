@@ -4,10 +4,9 @@
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d208fb50fdbbf001ffdf72a",
     "name": "White Sulphur Springs, WV",
@@ -15,35 +14,31 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:10:29.149Z",
+    "createdAt": "2019-07-06T12:10:29.149Z"
   },
   {
     "likes": [
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
-      },
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
+      }
     ],
     "_id": "5d208fe20fdbbf001ffdf72b",
     "name": "West Virginia State University",
@@ -51,21 +46,19 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:11:14.149Z",
+    "createdAt": "2019-07-06T12:11:14.149Z"
   },
   {
     "likes": [
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d208ff30fdbbf001ffdf72c",
     "name": "Hampton, VA",
@@ -73,21 +66,19 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:11:31.452Z",
+    "createdAt": "2019-07-06T12:11:31.452Z"
   },
   {
     "likes": [
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
-      },
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
+      }
     ],
     "_id": "5d2090310fdbbf001ffdf72d",
     "name": "Newport News, VA",
@@ -95,42 +86,37 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:12:33.043Z",
+    "createdAt": "2019-07-06T12:12:33.043Z"
   },
   {
     "likes": [
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
       },
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
-      },
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
+      }
     ],
     "_id": "5d2090470fdbbf001ffdf72e",
     "name": "Morgantown, WV",
@@ -138,28 +124,25 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:12:55.607Z",
+    "createdAt": "2019-07-06T12:12:55.607Z"
   },
   {
     "likes": [
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d2090710fdbbf001ffdf72f",
     "name": "Monongahela River",
@@ -167,28 +150,25 @@
     "owner": {
       "name": "Katherine Johnson",
       "about": "Mathematician",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-      "_id": "8340d0ec33270a25f2413b69",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+      "_id": "8340d0ec33270a25f2413b69"
     },
-    "createdAt": "2019-07-06T12:13:37.170Z",
+    "createdAt": "2019-07-06T12:13:37.170Z"
   },
   {
     "likes": [
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
-      },
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
+      }
     ],
     "_id": "5d28fd8f2eb23e001f5c356a",
     "name": "Mom",
@@ -196,28 +176,25 @@
     "owner": {
       "name": "Tim Berners-Lee",
       "about": "Inventor, scientist",
-      "avatar":
-        "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-      "_id": "d285e3dceed844f902650f40",
+      "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+      "_id": "d285e3dceed844f902650f40"
     },
-    "createdAt": "2019-07-12T21:37:19.756Z",
+    "createdAt": "2019-07-12T21:37:19.756Z"
   },
   {
     "likes": [
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
       },
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
-      },
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
+      }
     ],
     "_id": "5d298f3e2eb23e001f5c357e",
     "name": "Me by Antoine Claudet",
@@ -225,28 +202,25 @@
     "owner": {
       "name": "Ada Lovelace",
       "about": "Mathematician, writer",
-      "avatar":
-        "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-      "_id": "dbfe53c3c4d568240378b0c6",
+      "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+      "_id": "dbfe53c3c4d568240378b0c6"
     },
-    "createdAt": "2019-07-13T07:58:54.218Z",
+    "createdAt": "2019-07-13T07:58:54.218Z"
   },
   {
     "likes": [
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
       },
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
-      },
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
+      }
     ],
     "_id": "5d298ff92eb23e001f5c357f",
     "name": "Me by Alfred D'Orsay",
@@ -254,42 +228,37 @@
     "owner": {
       "name": "Ada Lovelace",
       "about": "Mathematician, writer",
-      "avatar":
-        "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-      "_id": "dbfe53c3c4d568240378b0c6",
+      "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+      "_id": "dbfe53c3c4d568240378b0c6"
     },
-    "createdAt": "2019-07-13T08:02:01.816Z",
+    "createdAt": "2019-07-13T08:02:01.816Z"
   },
   {
     "likes": [
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
       },
       {
         "name": "Grace Hopper",
         "about": "Computer scientist",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/800px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
-        "_id": "7d8c010a1c97ca2654997a95",
-      },
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/800px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+        "_id": "7d8c010a1c97ca2654997a95"
+      }
     ],
     "_id": "5d29bdef2eb23e001f5c35ae",
     "name": "Me in a computer room",
@@ -297,42 +266,37 @@
     "owner": {
       "name": "Grace Hopper",
       "about": "Computer scientist",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/800px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
-      "_id": "7d8c010a1c97ca2654997a95",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/800px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+      "_id": "7d8c010a1c97ca2654997a95"
     },
-    "createdAt": "2019-07-13T11:18:07.156Z",
+    "createdAt": "2019-07-13T11:18:07.156Z"
   },
   {
     "likes": [
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
       },
       {
         "name": "Katherine Johnson",
         "about": "Mathematician",
-        "avatar":
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
-        "_id": "8340d0ec33270a25f2413b69",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/800px-Katherine_Johnson_1983.jpg",
+        "_id": "8340d0ec33270a25f2413b69"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
-      },
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
+      }
     ],
     "_id": "5d2ae3f62eb23e001f5c35d9",
     "name": "Me by Margaret Sarah Carpenter",
@@ -340,11 +304,10 @@
     "owner": {
       "name": "Ada Lovelace",
       "about": "Mathematician, writer",
-      "avatar":
-        "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-      "_id": "dbfe53c3c4d568240378b0c6",
+      "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+      "_id": "dbfe53c3c4d568240378b0c6"
     },
-    "createdAt": "2019-07-14T08:12:38.137Z",
+    "createdAt": "2019-07-14T08:12:38.137Z"
   },
   {
     "likes": [],
@@ -354,21 +317,19 @@
     "owner": {
       "name": "Margaret Hamilton",
       "about": "Software engineer",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
-      "_id": "3c8c16ee9b1f89a2f8b5e4b2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
+      "_id": "3c8c16ee9b1f89a2f8b5e4b2"
     },
-    "createdAt": "2019-08-01T13:42:45.716Z",
+    "createdAt": "2019-08-01T13:42:45.716Z"
   },
   {
     "likes": [
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
-      },
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
+      }
     ],
     "_id": "5d42f19f29a31b001ff069d4",
     "name": "University of Michigan",
@@ -376,11 +337,10 @@
     "owner": {
       "name": "Margaret Hamilton",
       "about": "Software engineer",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
-      "_id": "3c8c16ee9b1f89a2f8b5e4b2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
+      "_id": "3c8c16ee9b1f89a2f8b5e4b2"
     },
-    "createdAt": "2019-08-01T14:05:19.741Z",
+    "createdAt": "2019-08-01T14:05:19.741Z"
   },
   {
     "likes": [],
@@ -390,28 +350,25 @@
     "owner": {
       "name": "Margaret Hamilton",
       "about": "Software engineer",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
-      "_id": "3c8c16ee9b1f89a2f8b5e4b2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
+      "_id": "3c8c16ee9b1f89a2f8b5e4b2"
     },
-    "createdAt": "2019-08-01T14:07:27.392Z",
+    "createdAt": "2019-08-01T14:07:27.392Z"
   },
   {
     "likes": [
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
       },
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
-      },
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
+      }
     ],
     "_id": "5d42f30829a31b001ff069d6",
     "name": "Designing Apollo software",
@@ -419,21 +376,19 @@
     "owner": {
       "name": "Margaret Hamilton",
       "about": "Software engineer",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
-      "_id": "3c8c16ee9b1f89a2f8b5e4b2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
+      "_id": "3c8c16ee9b1f89a2f8b5e4b2"
     },
-    "createdAt": "2019-08-01T14:11:20.153Z",
+    "createdAt": "2019-08-01T14:11:20.153Z"
   },
   {
     "likes": [
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d43208d29a31b001ff069d7",
     "name": "Me and my computer",
@@ -441,35 +396,31 @@
     "owner": {
       "name": "Margaret Hamilton",
       "about": "Software engineer",
-      "avatar":
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
-      "_id": "3c8c16ee9b1f89a2f8b5e4b2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/800px-Margaret_Hamilton_1995.jpg",
+      "_id": "3c8c16ee9b1f89a2f8b5e4b2"
     },
-    "createdAt": "2019-08-01T17:25:33.612Z",
+    "createdAt": "2019-08-01T17:25:33.612Z"
   },
   {
     "likes": [
       {
         "name": "Alan Turing",
         "about": "Mathematician, cryptanalyst",
-        "avatar":
-          "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-        "_id": "f20c9c560aa652a72cba323f",
+        "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+        "_id": "f20c9c560aa652a72cba323f"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
       },
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
-      },
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
+      }
     ],
     "_id": "5d5556248a1004001f393aef",
     "name": "Alma mater",
@@ -477,28 +428,25 @@
     "owner": {
       "name": "Alan Turing",
       "about": "Mathematician, cryptanalyst",
-      "avatar":
-        "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
-      "_id": "f20c9c560aa652a72cba323f",
+      "avatar": "https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg",
+      "_id": "f20c9c560aa652a72cba323f"
     },
-    "createdAt": "2019-08-15T12:55:00.154Z",
+    "createdAt": "2019-08-15T12:55:00.154Z"
   },
   {
     "likes": [
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d596e158a1004001f394465",
     "name": "Dad",
@@ -506,28 +454,25 @@
     "owner": {
       "name": "Tim Berners-Lee",
       "about": "Inventor, scientist",
-      "avatar":
-        "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-      "_id": "d285e3dceed844f902650f40",
+      "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+      "_id": "d285e3dceed844f902650f40"
     },
-    "createdAt": "2019-08-18T15:26:13.673Z",
+    "createdAt": "2019-08-18T15:26:13.673Z"
   },
   {
     "likes": [
       {
         "name": "Ada Lovelace",
         "about": "Mathematician, writer",
-        "avatar":
-          "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
-        "_id": "dbfe53c3c4d568240378b0c6",
+        "avatar": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwODQwOTQ2MTkw/ada-lovelace-20825279-1-402.jpg",
+        "_id": "dbfe53c3c4d568240378b0c6"
       },
       {
         "name": "Tim Berners-Lee",
         "about": "Inventor, scientist",
-        "avatar":
-          "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-        "_id": "d285e3dceed844f902650f40",
-      },
+        "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+        "_id": "d285e3dceed844f902650f40"
+      }
     ],
     "_id": "5d59918b8a1004001f39446d",
     "name": "World's first web server",
@@ -535,10 +480,9 @@
     "owner": {
       "name": "Tim Berners-Lee",
       "about": "Inventor, scientist",
-      "avatar":
-        "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
-      "_id": "d285e3dceed844f902650f40",
+      "avatar": "https://media.wired.com/photos/5c86f3dd67bf5c2d3c382474/4:3/w_2400,h_1800,c_limit/TBL-RTX6HE9J-(1).jpg",
+      "_id": "d285e3dceed844f902650f40"
     },
-    "createdAt": "2019-08-18T17:57:31.609Z",
-  },
-];
+    "createdAt": "2019-08-18T17:57:31.609Z"
+  }
+]
