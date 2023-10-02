@@ -12,7 +12,7 @@ app.use("/users", userRouter);
 app.use("/cards", cardRouter);
 
 app.get("/", (req, res) => {
-  res.send("<h1>Server listening on PORT 3000</h1>");
+  res.send("<h1>Server listening on PORT 3000.</h1>");
 });
 
 // Middleware to handle invalid routes
