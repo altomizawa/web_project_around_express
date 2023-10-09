@@ -1,8 +1,14 @@
 const express = require("express");
-
+const cors = require("cors");
+const mongoose = require("mongoose");
+const connectDatabase = require("./data/database");
+// const allowedOrigins = ["http://localhost:3000"];
 const { PORT = 3000, BASE_PATH } = process.env;
 
 const app = express();
+app.use(cors());
+
+connectDatabase();
 
 const userRouter = require("./routes/users");
 const cardRouter = require("./routes/cards");

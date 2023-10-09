@@ -14,4 +14,23 @@ router.get("/", (req, res) => {
     });
 });
 
+router.get("/:id", (req, res) => {
+  fsPromises
+    .readFile(cardRoute, "utf8")
+    .then((cards) => {
+      const parsedCards = JSON.parse(cards);
+      const card = parsedCards.find((card) => card._id === req.params.id);
+      if (!card) {
+        res.status(404).send({ message: "card not found" });
+      } else {
+        res.send(card);
+      }
+    })
+
+    .catch((err) => {
+      console.error(err);
+      res.status(500).send("Error reading the file");
+    });
+});
+
 module.exports = router;
