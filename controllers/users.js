@@ -34,10 +34,21 @@ module.exports.deleteUser = (req, res) => {
 
 //-------------UPDATE USER--------------
 module.exports.updateUser = (req, res) => {
-  const { name, about, avatar } = req.body;
-  User.findByIdAndUpdate(req.params.id, { name, about, avatar })
+  const { name, about } = req.body;
+  User.findByIdAndUpdate(req.params.id, { name, about }, { new: true })
     .then((user) => res.send({ data: user }))
     .catch((err) => res.status(500).send({ message: "Error" }));
 };
 
+//-------------UPDATE AVATAR--------------
+module.exports.updateAvatar = (req, res) => {
+  const { avatar } = req.body;
+  User.findByIdAndUpdate(req.params.id, { avatar }, { new: true })
+    .then((user) => res.send({ data: user }))
+    .catch((err) => {
+      res
+        .status(err.statusCode || 500)
+        .send({ message: err.message || "Error" });
+    });
+};
 // module.exports = router;
