@@ -1,17 +1,27 @@
 const express = require("express");
+const bodyParser = require("body-parser");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const connectDatabase = require("./data/database");
-// const allowedOrigins = ["http://localhost:3000"];
+
 const { PORT = 3000, BASE_PATH } = process.env;
 
 const app = express();
 app.use(cors());
+app.use(bodyParser.json());
 
 connectDatabase();
 
 const userRouter = require("./routes/users");
 const cardRouter = require("./routes/cards");
+
+//AUTHORIZATION
+app.use((req, res, next) => {
+  req.user = {
+    _id: "651da9f209d98f152c604157",
+  };
+  next();
+});
 
 app.use("/users", userRouter);
 
